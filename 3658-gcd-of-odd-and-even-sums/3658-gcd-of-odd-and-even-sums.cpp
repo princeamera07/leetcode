@@ -1,0 +1,10 @@
+
+class Solution {
+public:
+    long long gcdOfOddEvenSums(int n) {
+        long long sumOdd = 1LL * n * n;
+        long long sumEven = 1LL * n * (n + 1);
+
+        return gcd(sumOdd, sumEven);
+    }
+};
