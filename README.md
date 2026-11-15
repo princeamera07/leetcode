@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/princeamera07/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/princeamera07/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/princeamera07/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/princeamera07/leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/princeamera07/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/princeamera07/leetcode/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/princeamera07/leetcode/tree/master/1254-number-of-closed-islands) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/princeamera07/leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/princeamera07/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/princeamera07/leetcode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/princeamera07/leetcode/tree/master/1267-count-servers-that-communicate) |
