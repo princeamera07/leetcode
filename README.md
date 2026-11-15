@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/princeamera07/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/princeamera07/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/princeamera07/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/princeamera07/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/princeamera07/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/princeamera07/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/princeamera07/leetcode/tree/master/1406-stone-game-iii) |
@@ -440,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/princeamera07/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/princeamera07/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
