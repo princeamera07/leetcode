@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/princeamera07/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/princeamera07/leetcode/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/princeamera07/leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/princeamera07/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/princeamera07/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/princeamera07/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/princeamera07/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/princeamera07/leetcode/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/princeamera07/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/princeamera07/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/princeamera07/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/princeamera07/leetcode/tree/master/1406-stone-game-iii) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/princeamera07/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/princeamera07/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2029-stone-game-ix](https://github.com/princeamera07/leetcode/tree/master/2029-stone-game-ix) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/princeamera07/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/princeamera07/leetcode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/princeamera07/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/princeamera07/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/princeamera07/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
@@ -390,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/princeamera07/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/princeamera07/leetcode/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/princeamera07/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/princeamera07/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/princeamera07/leetcode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Binary Indexed Tree
