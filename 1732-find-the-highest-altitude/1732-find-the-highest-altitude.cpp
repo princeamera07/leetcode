@@ -5,8 +5,8 @@ public:
         int altitude = 0;
         int highest = 0;
 
-        for (int i = 0; i < gain.size(); i++) {
-            altitude += gain[i];
+        for (int x : gain) {
+            altitude += x;
             highest = max(highest, altitude);
         }
 
