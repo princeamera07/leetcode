@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/princeamera07/leetcode/tree/master/1140-stone-game-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/princeamera07/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/princeamera07/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/princeamera07/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/princeamera07/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3364-minimum-positive-sum-subarray](https://github.com/princeamera07/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/princeamera07/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/princeamera07/leetcode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/princeamera07/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/princeamera07/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princeamera07/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/princeamera07/leetcode/tree/master/2029-stone-game-ix) |
 | [2409-count-days-spent-together](https://github.com/princeamera07/leetcode/tree/master/2409-count-days-spent-together) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/princeamera07/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1563-stone-game-v](https://github.com/princeamera07/leetcode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/princeamera07/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/princeamera07/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/princeamera07/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/princeamera07/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/princeamera07/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/princeamera07/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/princeamera07/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/princeamera07/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/princeamera07/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Matrix
