@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/princeamera07/leetcode/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/princeamera07/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/princeamera07/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1732-find-the-highest-altitude](https://github.com/princeamera07/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1882-process-tasks-using-servers](https://github.com/princeamera07/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/princeamera07/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/princeamera07/leetcode/tree/master/2029-stone-game-ix) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/princeamera07/leetcode/tree/master/1140-stone-game-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/princeamera07/leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1732-find-the-highest-altitude](https://github.com/princeamera07/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/princeamera07/leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3364-minimum-positive-sum-subarray](https://github.com/princeamera07/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/princeamera07/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
