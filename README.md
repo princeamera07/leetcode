@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/princeamera07/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/princeamera07/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/princeamera07/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/princeamera07/leetcode/tree/master/0036-valid-sudoku) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/princeamera07/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/princeamera07/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/princeamera07/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/princeamera07/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/princeamera07/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/princeamera07/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/princeamera07/leetcode/tree/master/0036-valid-sudoku) |
 | [1331-rank-transform-of-an-array](https://github.com/princeamera07/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/princeamera07/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/princeamera07/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/princeamera07/leetcode/tree/master/0036-valid-sudoku) |
 | [0835-image-overlap](https://github.com/princeamera07/leetcode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/princeamera07/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/princeamera07/leetcode/tree/master/1260-shift-2d-grid) |
