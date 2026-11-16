@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/princeamera07/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/princeamera07/leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/princeamera07/leetcode/tree/master/0015-3sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/princeamera07/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/princeamera07/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/princeamera07/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/princeamera07/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/princeamera07/leetcode/tree/master/0015-3sum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/princeamera07/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/princeamera07/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/princeamera07/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/princeamera07/leetcode/tree/master/0015-3sum) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/princeamera07/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/princeamera07/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/princeamera07/leetcode/tree/master/1331-rank-transform-of-an-array) |
