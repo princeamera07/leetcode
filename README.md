@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/princeamera07/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/princeamera07/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/princeamera07/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/princeamera07/leetcode/tree/master/0043-multiply-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/princeamera07/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/princeamera07/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/princeamera07/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/princeamera07/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/princeamera07/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/princeamera07/leetcode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/princeamera07/leetcode/tree/master/0043-multiply-strings) |
 | [0301-remove-invalid-parentheses](https://github.com/princeamera07/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/princeamera07/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/princeamera07/leetcode/tree/master/0856-score-of-parentheses) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/princeamera07/leetcode/tree/master/0043-multiply-strings) |
 | [1260-shift-2d-grid](https://github.com/princeamera07/leetcode/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/princeamera07/leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3498-reverse-degree-of-a-string](https://github.com/princeamera07/leetcode/tree/master/3498-reverse-degree-of-a-string) |
